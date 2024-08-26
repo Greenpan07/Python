@@ -1,0 +1,12 @@
+time=int(input("enter the time in 24 hour format"))
+if(time<=12>=0):
+    print("Good Morning")
+elif(time<=17>12):
+    print("Good Afternoon")
+elif(time<=24>17):
+    print("good evening")
+else:("print Valid time")
+
+
+
+

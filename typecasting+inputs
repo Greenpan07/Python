@@ -1,0 +1,6 @@
+a= input("enter your number",)
+b= input("enter next number",)
+#pyton taking integers as string
+print("your operation for addition is ",int(a+b)) 
+#typecasting string as integers,explicit conversion
+print("your operation for addition is ",int(a)+int(b))  
